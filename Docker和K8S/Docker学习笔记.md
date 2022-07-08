@@ -13,3 +13,8 @@
 
 
 3. 容器与镜像的区别是什么
+
+
+4. 容器镜像如何build支持多cpu架构的
+docker buildx
+docker manifest的能力
